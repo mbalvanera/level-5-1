@@ -1,0 +1,42 @@
+.title {
+    font-size: 200px;
+    position: fixed;
+    z-index: 50px;
+    margin-top: 10px;
+    text-align: right;
+    color: aliceblue;
+    
+    
+}
+
+.boxes {
+    width: 100px;
+    float: left; 
+    border: dashed blue 10px;
+    padding: 50px;
+    margin: 50px
+}
+
+.one {
+    border: dotted pink 5px;
+    padding: 10px;
+    margin: 10px
+}
+
+.two {
+    border: solid green 10px;
+    background-color: aquamarine;
+    padding: 30px;
+    font-family: fantasy;
+    color: antiquewhite
+}
+
+.last {
+    font-size: 100px;
+    color: salmon;
+    font-family: cursive;
+    
+    
+}
+
+
